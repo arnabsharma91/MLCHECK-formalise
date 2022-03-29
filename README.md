@@ -62,7 +62,7 @@ But still, after that, some randomness in our tool and in the computation of tes
 If you need to interrupt the execution of the artifact by pressing ctrl+c, then before starting new execution, please at least remove assumeStmnt.txt and assertStmnt.txt. Otherwise it will start to give you errors.
 
 
-------Tip-----
+### Tip
 Due to small window size of the VM, you might have problem opening the .csv file completely. Once you open the .csv file partially, you can press enter which will enable you to open it in a full screen mode.
 
 
