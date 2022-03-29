@@ -1,10 +1,11 @@
 # MLCHECK-formalise
-A repository containing code and data to reproduce the results of the paper "Property-Driven Testing of Black-Box Functions" published in FormaliSE-2022.
+A repository containing a [link](https://figshare.com/s/2071cc68a5a39c1b881d) to the code and data to reproduce the results of the paper "Property-Driven Testing of Black-Box Functions" published in FormaliSE-2022.
 
 
 
 ## VM
-This artifact contains a single VM file named formalise. This VM is prepared by using Oracle VirtualBox. You can download VirtualBox from here: https://www.virtualbox.org/
+This artifact contains a single VM file named formalise. As in Github we could not upload the VM file due to its large size. You can find the VM [here](https://figshare.com/s/2071cc68a5a39c1b881d) 
+This VM is prepared by using Oracle VirtualBox. You can download VirtualBox from here: https://www.virtualbox.org/
 
 Assuming that you have successfully installed VirtualBox or is already installed in your machine, first of all, you need to import the VM in VirtualBox. This you can do either by double clicking on the VM formalise or by going to File -> Import Appliance and then add the VM.
 Below are the specifications of the VM formalise.
