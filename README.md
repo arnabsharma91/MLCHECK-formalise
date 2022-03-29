@@ -4,7 +4,7 @@ A repository containing a [link](https://figshare.com/s/2071cc68a5a39c1b881d) to
 
 
 ## VM
-This artifact contains a single VM file named formalise. As in Github we could not upload the VM file due to its large size. You can find the VM [here](https://figshare.com/s/2071cc68a5a39c1b881d) 
+This artifact contains a single VM file named formalise. As in Github we could not upload the VM file due to its large size. You can find the VM [here.](https://figshare.com/s/2071cc68a5a39c1b881d) 
 This VM is prepared by using Oracle VirtualBox. You can download VirtualBox from here: https://www.virtualbox.org/
 
 Assuming that you have successfully installed VirtualBox or is already installed in your machine, first of all, you need to import the VM in VirtualBox. This you can do either by double clicking on the VM formalise or by going to File -> Import Appliance and then add the VM.
